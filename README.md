@@ -31,6 +31,7 @@ A simple iOS app built with **Swift** and **SwiftUI**, following the **MVVM arch
     <td><img src="screenshots/12.png" alt="" width="300"/></td>
     <td><img src="screenshots/11.png" alt="" width="300"/></td>
     <td><img src="screenshots/10.png" alt="" width="300"/></td>
+    <td><img src="screenshots/9.png" alt="" width="300"/></td>
   </tr>
   <tr>
     <td>Home Screen</td>
@@ -38,9 +39,9 @@ A simple iOS app built with **Swift** and **SwiftUI**, following the **MVVM arch
     <td>Edit Task</td>
   </tr>
 </table>
+
 <table>
   <tr>
-    <td><img src="screenshots/9.png" alt="" width="300"/></td>
     <td><img src="screenshots/8.png" alt="" width="300"/></td>
     <td><img src="screenshots/7.png" alt="" width="300"/></td>
     <td><img src="screenshots/6.png" alt="" width="300"/></td>
@@ -67,6 +68,7 @@ A simple iOS app built with **Swift** and **SwiftUI**, following the **MVVM arch
     <td>Edit Task</td>
   </tr>
 </table>
+
 ### iPad Screens
 ![](screenshots/5.png) ![](screenshots/4.png) ![](screenshots/3.png) ![](screenshots/2.png)
 ![](screenshots/1.png)
