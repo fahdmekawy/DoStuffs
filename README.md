@@ -1,7 +1,7 @@
 
 # DoSuffs
 
-A simple iOS app built with **Swift** and **SwiftUI**, following the **MVVM architecture**. The app offers **CRUD (Create, Read, Update, Delete)** functionalities and uses **UserDefaults** and **EnvironmentObject** to manage data. The launch screen was designed using **Storyboard**.
+A simple iOS app built with **Swift** and **SwiftUI** with smooth **Animation**, following the **MVVM architecture**. The app offers **CRUD (Create, Read, Update, Delete)** functionalities and uses **UserDefaults** and **EnvironmentObject** to manage data. The launch screen was designed using **Storyboard**.
 
 ## Features
 - Add, update, and delete tasks
