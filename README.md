@@ -14,18 +14,16 @@ A simple iOS app built with **Swift** and **SwiftUI**, following the **MVVM arch
 
 <table>
   <tr>
-    <td><img src="screenshots/15.png" alt="" width="200"/></td>
-    <td><img src="screenshots/14.png" alt="" width="200"/></td>
-    <td><img src="screenshots/13.png" alt="" width="200"/></td>
-    <td><img src="screenshots/12.png" alt="" width="200"/></td>
-    <td><img src="screenshots/11.png" alt="" width="200"/></td>
-    <td><img src="screenshots/10.png" alt="" width="200"/></td>
-    <td><img src="screenshots/9.png" alt="" width="200"/></td>
-    <td><img src="screenshots/8.png" alt="" width="200"/></td>
-    <td><img src="screenshots/7.png" alt="" width="200"/></td>
-    <td><img src="screenshots/6.png" alt="" width="200"/></td>
-
-
+    <td><img src="screenshots/15.png" alt="" width="300"/></td>
+    <td><img src="screenshots/14.png" alt="" width="300"/></td>
+    <td><img src="screenshots/13.png" alt="" width="300"/></td>
+    <td><img src="screenshots/12.png" alt="" width="300"/></td>
+    <td><img src="screenshots/11.png" alt="" width="300"/></td>
+    <td><img src="screenshots/10.png" alt="" width="300"/></td>
+    <td><img src="screenshots/9.png" alt="" width="300"/></td>
+    <td><img src="screenshots/8.png" alt="" width="300"/></td>
+    <td><img src="screenshots/7.png" alt="" width="300"/></td>
+    <td><img src="screenshots/6.png" alt="" width="300"/></td>
   </tr>
   <tr>
     <td>Home Screen</td>
