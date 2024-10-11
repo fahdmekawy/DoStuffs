@@ -11,9 +11,11 @@ A simple iOS app built with **Swift** and **SwiftUI**, following the **MVVM arch
 - Designed for both **iPhone** and **iPad**
 
 ## Screenshots
+<img src="screenshots/15.png" alt="" width="300"/>
 
 ### iPhone Screens
-![](screenshots/15.png) ![](screenshots/14.png) ![](screenshots/13.png) ![](screenshots/12.png)
+<img src="screenshots/15.png" alt="" width="300"/>
+ ![](screenshots/14.png) ![](screenshots/13.png) ![](screenshots/12.png)
 ![](screenshots/11.png) ![](screenshots/10.png) ![](screenshots/9.png) ![](screenshots/8.png)
 ![](screenshots/7.png) ![](screenshots/6.png)
 
