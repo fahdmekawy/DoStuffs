@@ -11,6 +11,7 @@ A simple iOS app built with **Swift** and **SwiftUI**, following the **MVVM arch
 - Designed for both **iPhone** and **iPad**
 
 ### iPhone Screens
+### Light Mode
 
 <table>
   <tr>
@@ -51,6 +52,21 @@ A simple iOS app built with **Swift** and **SwiftUI**, following the **MVVM arch
   </tr>
 </table>
 
+### Dark Mode
+
+<table>
+  <tr>
+    <td><img src="screenshots/9.png" alt="" width="300"/></td>
+    <td><img src="screenshots/8.png" alt="" width="300"/></td>
+    <td><img src="screenshots/7.png" alt="" width="300"/></td>
+    <td><img src="screenshots/6.png" alt="" width="300"/></td>
+  </tr>
+  <tr>
+    <td>Home Screen</td>
+    <td>Create Task</td>
+    <td>Edit Task</td>
+  </tr>
+</table>
 ### iPad Screens
 ![](screenshots/5.png) ![](screenshots/4.png) ![](screenshots/3.png) ![](screenshots/2.png)
 ![](screenshots/1.png)
