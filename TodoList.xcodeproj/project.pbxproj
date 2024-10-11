@@ -16,6 +16,11 @@
 			path = TodoList;
 			sourceTree = "<group>";
 		};
+		988964202CB8BCA9004DFBF6 /* screenshots */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = screenshots;
+			sourceTree = "<group>";
+		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -34,6 +39,7 @@
 			children = (
 				988963EE2CB719AE004DFBF6 /* TodoList */,
 				988963ED2CB719AE004DFBF6 /* Products */,
+				988964202CB8BCA9004DFBF6 /* screenshots */,
 			);
 			sourceTree = "<group>";
 		};
@@ -62,6 +68,7 @@
 			);
 			fileSystemSynchronizedGroups = (
 				988963EE2CB719AE004DFBF6 /* TodoList */,
+				988964202CB8BCA9004DFBF6 /* screenshots */,
 			);
 			name = TodoList;
 			packageProductDependencies = (

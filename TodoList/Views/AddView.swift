@@ -26,7 +26,7 @@ struct AddView: View {
                             .background(Color.accentColor).cornerRadius(12)
                     })
                 
-            }.padding(16)
+            }.padding(16).padding( )
             
         }
         .navigationTitle("Add an Item 🖋️")
